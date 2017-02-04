@@ -1,4 +1,4 @@
-package: github.com/edganiukov/drone-gcr
+package: github.com/lovoo/drone-gcr
 
 import:
 - package: github.com/kelseyhightower/envconfig
