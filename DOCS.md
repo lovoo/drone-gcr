@@ -69,7 +69,7 @@ publish:
 ```
 
 When injecting secrets you must also use a folded block scalar:
-```
+```yaml
 publish:
   auth_key: >
     ${GCR_AUTH_KEY}
